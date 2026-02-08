@@ -40,6 +40,7 @@
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - wdbrk
+- [Fredy Godoy](https://github.com/xxfredy93xx)
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
 - SkMave
