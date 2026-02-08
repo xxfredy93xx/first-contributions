@@ -113,7 +113,6 @@
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
 - Dan
-- Fredy Godoy
 - Kartik Sharma will prove himself worthy,https://github.com/Kartikk28
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
 - [Aditya Atreya](https://github.com/AdiAce4u)
